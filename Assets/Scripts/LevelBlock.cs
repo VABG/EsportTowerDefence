@@ -21,11 +21,6 @@ public class LevelBlock : MonoBehaviour
 
     }
 
-    public void SetTower(Tower t)
-    {
-        tower = t;
-    }
-
     public bool HasTower()
     {
         if (tower != null) return true;
