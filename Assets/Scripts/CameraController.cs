@@ -40,6 +40,5 @@ public class CameraController : MonoBehaviour
         moveTarget += move * moveSpeedMult * Time.deltaTime;
 
         transform.position = Vector3.Lerp(transform.position, moveTarget, Time.deltaTime * 5.0f);
-
     }
 }
