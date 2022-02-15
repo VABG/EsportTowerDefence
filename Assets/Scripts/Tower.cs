@@ -22,6 +22,11 @@ public class Tower : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        for (int i = targets.Count-1; i >= 0; i--)
+        {
+            if (targets[i] == null) targets.RemoveAt(i);
+        }
+
         if (shotTimer > 0) shotTimer -= Time.deltaTime;
 
         if (targets.Count > 0)
