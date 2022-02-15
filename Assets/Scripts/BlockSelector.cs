@@ -7,7 +7,9 @@ public class BlockSelector : MonoBehaviour
     [SerializeField] LayerMask layerMask;
     [SerializeField] List<Tower> towerPrefabs;
     Camera cam;
+
     Tower activeTower;
+
     LevelBlock selectedBlock;
 
     // Start is called before the first frame update
@@ -42,10 +44,13 @@ public class BlockSelector : MonoBehaviour
             if (Physics.Raycast(ray, out hit, 100.0f, layerMask))
             {
                 Transform objectHit = hit.transform;
+
                 LevelBlock lb = objectHit.GetComponent<LevelBlock>();
+
                 if (lb != null)
                 {
                     if (lb.isPath) return;
+
                     selectedBlock = lb;
                     lb.ShowSelected();
 
@@ -55,10 +60,6 @@ public class BlockSelector : MonoBehaviour
                         activeTower = null;
                     }
 
-                }
-                else
-                {
-                    objectHit.position += Vector3.up;
                 }
             }
         }

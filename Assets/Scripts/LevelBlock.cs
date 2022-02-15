@@ -6,7 +6,9 @@ public class LevelBlock : MonoBehaviour
 {
     public bool isPath = false;
     public int size = 5;
+
     Tower tower;
+
     [SerializeField] Transform selectVisuals;
 
     // Start is called before the first frame update
@@ -29,7 +31,7 @@ public class LevelBlock : MonoBehaviour
 
     public void ShowSelected()
     {
-        selectVisuals.gameObject.SetActive(true);        
+        selectVisuals.gameObject.SetActive(true);
     }
 
     public void HideSelected()
