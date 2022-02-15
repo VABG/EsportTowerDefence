@@ -253,9 +253,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1517811571}
-  selectTime: 1
 --- !u!65 &3976395
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -367,9 +365,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1392521251}
-  selectTime: 1
 --- !u!65 &7659319
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -724,9 +720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1768779236}
-  selectTime: 1
 --- !u!65 &13999042
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -838,9 +832,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 741982368}
-  selectTime: 1
 --- !u!65 &17398673
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -952,9 +944,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1073175312}
-  selectTime: 1
 --- !u!65 &18218623
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1066,9 +1056,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1583748190}
-  selectTime: 1
 --- !u!65 &22072429
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1180,9 +1168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1356107266}
-  selectTime: 1
 --- !u!65 &23370125
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1375,9 +1361,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 118167789}
-  selectTime: 1
 --- !u!65 &28163697
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1570,9 +1554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 759010318}
-  selectTime: 1
 --- !u!65 &37892179
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1765,9 +1747,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2112432261}
-  selectTime: 1
 --- !u!65 &39527064
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2203,9 +2183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 38185038}
-  selectTime: 1
 --- !u!65 &53573023
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2317,9 +2295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 836796621}
-  selectTime: 1
 --- !u!65 &56493451
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2512,9 +2488,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1425946773}
-  selectTime: 1
 --- !u!65 &60619981
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2626,9 +2600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1791849643}
-  selectTime: 1
 --- !u!65 &61606617
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2740,9 +2712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1728976023}
-  selectTime: 1
 --- !u!65 &67721918
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2854,9 +2824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 989029068}
-  selectTime: 1
 --- !u!65 &68328755
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2968,9 +2936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 180954505}
-  selectTime: 1
 --- !u!65 &73934748
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3082,9 +3048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1103107583}
-  selectTime: 1
 --- !u!65 &76739466
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3196,9 +3160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2064540056}
-  selectTime: 1
 --- !u!65 &80645725
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3310,9 +3272,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1092247387}
-  selectTime: 1
 --- !u!65 &80748101
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3748,9 +3708,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2091085439}
-  selectTime: 1
 --- !u!65 &105735919
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3862,9 +3820,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 388992881}
-  selectTime: 1
 --- !u!65 &109114093
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4138,9 +4094,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1991633501}
-  selectTime: 1
 --- !u!65 &120724812
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4252,9 +4206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1592162556}
-  selectTime: 1
 --- !u!65 &133490869
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4366,9 +4318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 654023800}
-  selectTime: 1
 --- !u!65 &136626508
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4561,9 +4511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 285530022}
-  selectTime: 1
 --- !u!65 &138459784
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4675,9 +4623,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1515876506}
-  selectTime: 1
 --- !u!65 &139029770
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4789,9 +4735,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1961958677}
-  selectTime: 1
 --- !u!65 &139623341
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4903,9 +4847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1810579908}
-  selectTime: 1
 --- !u!65 &141086139
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5017,9 +4959,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 825935504}
-  selectTime: 1
 --- !u!65 &143277570
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5131,9 +5071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 292497381}
-  selectTime: 1
 --- !u!65 &144210312
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5245,9 +5183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 101667465}
-  selectTime: 1
 --- !u!65 &145818076
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5440,9 +5376,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 277050953}
-  selectTime: 1
 --- !u!65 &157940699
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5554,9 +5488,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 512758148}
-  selectTime: 1
 --- !u!65 &158014326
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5668,9 +5600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1038168359}
-  selectTime: 1
 --- !u!65 &159799449
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5782,9 +5712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 137731234}
-  selectTime: 1
 --- !u!65 &171877623
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5896,9 +5824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1790573226}
-  selectTime: 1
 --- !u!65 &172046093
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6010,9 +5936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 861634573}
-  selectTime: 1
 --- !u!65 &173478834
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6529,9 +6453,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 228439554}
-  selectTime: 1
 --- !u!65 &185431851
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6724,9 +6646,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 58390769}
-  selectTime: 1
 --- !u!65 &187706830
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7081,9 +7001,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 433154836}
-  selectTime: 1
 --- !u!65 &189465704
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7357,9 +7275,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 213223176}
-  selectTime: 1
 --- !u!65 &210724537
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7552,9 +7468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1985184389}
-  selectTime: 1
 --- !u!65 &222291298
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7747,9 +7661,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 473261135}
-  selectTime: 1
 --- !u!65 &228358972
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7942,9 +7854,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1857343677}
-  selectTime: 1
 --- !u!65 &229503384
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8137,9 +8047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 903742803}
-  selectTime: 1
 --- !u!65 &231706649
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8251,9 +8159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 798886707}
-  selectTime: 1
 --- !u!65 &232827217
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8365,9 +8271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1798948394}
-  selectTime: 1
 --- !u!65 &238324289
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8884,9 +8788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 319434422}
-  selectTime: 1
 --- !u!65 &263021871
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8998,9 +8900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1686217101}
-  selectTime: 1
 --- !u!65 &266095692
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9112,9 +9012,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1975289983}
-  selectTime: 1
 --- !u!65 &274057609
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9226,9 +9124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 705824964}
-  selectTime: 1
 --- !u!65 &275109789
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9340,9 +9236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1652363768}
-  selectTime: 1
 --- !u!65 &275503151
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9616,9 +9510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2105609028}
-  selectTime: 1
 --- !u!65 &285193705
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10216,9 +10108,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 174280037}
-  selectTime: 1
 --- !u!65 &301049521
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10411,9 +10301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1945970571}
-  selectTime: 1
 --- !u!65 &305005664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10849,9 +10737,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 305324248}
-  selectTime: 1
 --- !u!65 &320867924
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10963,9 +10849,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 32114391}
-  selectTime: 1
 --- !u!65 &330807049
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11077,9 +10961,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 724573379}
-  selectTime: 1
 --- !u!65 &333450129
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11272,9 +11154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 904151329}
-  selectTime: 1
 --- !u!65 &335356220
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11629,9 +11509,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1932122361}
-  selectTime: 1
 --- !u!65 &354371937
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11824,9 +11702,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1170681292}
-  selectTime: 1
 --- !u!65 &358307074
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11938,9 +11814,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 487085345}
-  selectTime: 1
 --- !u!65 &360750021
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12133,9 +12007,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1715444271}
-  selectTime: 1
 --- !u!65 &363933997
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12247,9 +12119,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1206831457}
-  selectTime: 1
 --- !u!65 &365400443
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12442,9 +12312,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2020700847}
-  selectTime: 1
 --- !u!65 &369059920
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12637,9 +12505,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1683211421}
-  selectTime: 1
 --- !u!65 &376378091
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12751,9 +12617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1423605164}
-  selectTime: 1
 --- !u!65 &378187832
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12865,9 +12729,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1160820862}
-  selectTime: 1
 --- !u!65 &381527366
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12979,9 +12841,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1390395062}
-  selectTime: 1
 --- !u!65 &387588414
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13093,9 +12953,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 11858298}
-  selectTime: 1
 --- !u!65 &387878553
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13369,9 +13227,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 707338285}
-  selectTime: 1
 --- !u!65 &394810783
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13564,9 +13420,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 26263638}
-  selectTime: 1
 --- !u!65 &397241307
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13678,9 +13532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 730853396}
-  selectTime: 1
 --- !u!65 &399918272
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13873,9 +13725,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 573041483}
-  selectTime: 1
 --- !u!65 &403005050
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13987,9 +13837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1535704398}
-  selectTime: 1
 --- !u!65 &406162343
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14101,9 +13949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1419898173}
-  selectTime: 1
 --- !u!65 &408835447
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14215,9 +14061,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 751445180}
-  selectTime: 1
 --- !u!65 &410941346
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14653,9 +14497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 938681984}
-  selectTime: 1
 --- !u!65 &415319730
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14848,9 +14690,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1905049641}
-  selectTime: 1
 --- !u!65 &419818982
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15124,9 +14964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 431956930}
-  selectTime: 1
 --- !u!65 &425174375
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15238,9 +15076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 370381631}
-  selectTime: 1
 --- !u!65 &425580658
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15595,9 +15431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1668226903}
-  selectTime: 1
 --- !u!65 &433299719
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15709,9 +15543,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 578063190}
-  selectTime: 1
 --- !u!65 &433418541
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15904,9 +15736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1970249271}
-  selectTime: 1
 --- !u!65 &438938038
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16018,9 +15848,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2038684947}
-  selectTime: 1
 --- !u!65 &441064492
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16213,9 +16041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1603428048}
-  selectTime: 1
 --- !u!65 &451493572
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16327,9 +16153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 631479031}
-  selectTime: 1
 --- !u!65 &452576107
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16441,9 +16265,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 692774231}
-  selectTime: 1
 --- !u!65 &453388585
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16555,9 +16377,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1143176747}
-  selectTime: 1
 --- !u!65 &459440664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16669,9 +16489,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 676825325}
-  selectTime: 1
 --- !u!65 &459626136
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17107,9 +16925,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1754590258}
-  selectTime: 1
 --- !u!65 &480245171
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17221,9 +17037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1713596609}
-  selectTime: 1
 --- !u!65 &481786054
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17416,9 +17230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1440867606}
-  selectTime: 1
 --- !u!65 &487159178
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17530,9 +17342,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 754403172}
-  selectTime: 1
 --- !u!65 &489442730
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17644,9 +17454,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1673530128}
-  selectTime: 1
 --- !u!65 &494908818
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17839,9 +17647,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1989024387}
-  selectTime: 1
 --- !u!65 &504375078
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17953,9 +17759,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 511372262}
-  selectTime: 1
 --- !u!65 &504828880
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18472,9 +18276,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1201917286}
-  selectTime: 1
 --- !u!65 &515129753
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18586,9 +18388,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 786664097}
-  selectTime: 1
 --- !u!65 &518262290
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18700,9 +18500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 338997597}
-  selectTime: 1
 --- !u!65 &524241774
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18895,9 +18693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 180254172}
-  selectTime: 1
 --- !u!65 &527005321
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19009,9 +18805,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1576749485}
-  selectTime: 1
 --- !u!65 &532040727
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19285,9 +19079,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1129240962}
-  selectTime: 1
 --- !u!65 &540798063
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19561,9 +19353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1238592849}
-  selectTime: 1
 --- !u!65 &543447607
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19675,9 +19465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1701698090}
-  selectTime: 1
 --- !u!65 &543977342
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19951,9 +19739,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2108288571}
-  selectTime: 1
 --- !u!65 &545995700
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20065,9 +19851,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 553556141}
-  selectTime: 1
 --- !u!65 &549153826
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20422,9 +20206,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 506641542}
-  selectTime: 1
 --- !u!65 &554836114
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20536,9 +20318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 642699356}
-  selectTime: 1
 --- !u!65 &557376059
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20731,9 +20511,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1300292661}
-  selectTime: 1
 --- !u!65 &560522752
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20845,9 +20623,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1258053514}
-  selectTime: 1
 --- !u!65 &562936800
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -20959,9 +20735,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1698140400}
-  selectTime: 1
 --- !u!65 &563352868
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21073,9 +20847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1033053406}
-  selectTime: 1
 --- !u!65 &564307203
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21187,9 +20959,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1683638232}
-  selectTime: 1
 --- !u!65 &564354561
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21301,9 +21071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 570172112}
-  selectTime: 1
 --- !u!65 &569947786
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21771,6 +21539,67 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 578063189}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &581172148
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.312565
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -12.572582
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3395058378639326702, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4408334277132511752, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_Name
+      value: Tower
+      objectReference: {fileID: 0}
+    - target: {fileID: 9008850276189692443, guid: a79195d2c64838546af067f1102e5684, type: 3}
+      propertyPath: m_Radius
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a79195d2c64838546af067f1102e5684, type: 3}
 --- !u!1 &582623215
 GameObject:
   m_ObjectHideFlags: 0
@@ -21901,9 +21730,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1538791603}
-  selectTime: 1
 --- !u!65 &586989898
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22015,9 +21842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1575054081}
-  selectTime: 1
 --- !u!65 &589801306
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22210,9 +22035,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 741159965}
-  selectTime: 1
 --- !u!65 &597644164
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22324,9 +22147,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1530023158}
-  selectTime: 1
 --- !u!65 &603956878
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22600,9 +22421,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 188675420}
-  selectTime: 1
 --- !u!65 &612375143
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22714,9 +22533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1116680544}
-  selectTime: 1
 --- !u!65 &614205452
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23233,9 +23050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1730950885}
-  selectTime: 1
 --- !u!65 &625482098
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23671,9 +23486,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1433565129}
-  selectTime: 1
 --- !u!65 &642207742
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23947,9 +23760,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1565206716}
-  selectTime: 1
 --- !u!65 &648178430
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24061,9 +23872,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1088191595}
-  selectTime: 1
 --- !u!65 &651662186
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24172,7 +23981,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &653447828
 GameObject:
@@ -24466,9 +24275,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 796067018}
-  selectTime: 1
 --- !u!65 &657578032
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24661,9 +24468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 893019156}
-  selectTime: 1
 --- !u!65 &661120463
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24937,9 +24742,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 509027970}
-  selectTime: 1
 --- !u!65 &670598637
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25132,9 +24935,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1093803757}
-  selectTime: 1
 --- !u!65 &672031099
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25246,9 +25047,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 878663749}
-  selectTime: 1
 --- !u!65 &673404857
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25360,9 +25159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1089366642}
-  selectTime: 1
 --- !u!65 &675135197
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25636,9 +25433,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1534249814}
-  selectTime: 1
 --- !u!65 &687897900
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25831,9 +25626,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1616042140}
-  selectTime: 1
 --- !u!65 &694084647
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26026,9 +25819,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 803917683}
-  selectTime: 1
 --- !u!65 &699677507
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26302,9 +26093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 888562977}
-  selectTime: 1
 --- !u!65 &703299951
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26578,9 +26367,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 240736516}
-  selectTime: 1
 --- !u!65 &707982613
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26692,9 +26479,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1970242269}
-  selectTime: 1
 --- !u!65 &708711010
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26806,9 +26591,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1653759467}
-  selectTime: 1
 --- !u!65 &717236779
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27001,9 +26784,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2068255501}
-  selectTime: 1
 --- !u!65 &719002383
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27358,9 +27139,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1201439684}
-  selectTime: 1
 --- !u!65 &724716275
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27553,9 +27332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 411564177}
-  selectTime: 1
 --- !u!65 &729551616
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27748,9 +27525,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1114007602}
-  selectTime: 1
 --- !u!65 &733820057
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -27862,9 +27637,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 292534126}
-  selectTime: 1
 --- !u!65 &733885890
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28057,9 +27830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1079221085}
-  selectTime: 1
 --- !u!65 &741889208
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28495,9 +28266,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 415090843}
-  selectTime: 1
 --- !u!65 &752513534
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28933,9 +28702,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1916110126}
-  selectTime: 1
 --- !u!65 &771003063
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29209,9 +28976,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1239882361}
-  selectTime: 1
 --- !u!65 &779555630
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29323,9 +29088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 582623216}
-  selectTime: 1
 --- !u!65 &781357441
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29437,9 +29200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 702433584}
-  selectTime: 1
 --- !u!65 &783125430
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29632,9 +29393,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1180275202}
-  selectTime: 1
 --- !u!65 &793729132
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29746,9 +29505,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 608173289}
-  selectTime: 1
 --- !u!65 &794986804
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29941,9 +29698,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1154460231}
-  selectTime: 1
 --- !u!65 &796409016
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30055,9 +29810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1349761777}
-  selectTime: 1
 --- !u!65 &796609669
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30574,9 +30327,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1513374777}
-  selectTime: 1
 --- !u!65 &805262243
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30769,9 +30520,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 861640694}
-  selectTime: 1
 --- !u!65 &819213402
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30883,9 +30632,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1228105916}
-  selectTime: 1
 --- !u!65 &820864561
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30997,9 +30744,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1844114167}
-  selectTime: 1
 --- !u!65 &821312172
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31111,9 +30856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 419139013}
-  selectTime: 1
 --- !u!65 &823882207
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31225,9 +30968,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1178444034}
-  selectTime: 1
 --- !u!65 &824942315
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31501,9 +31242,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1864304922}
-  selectTime: 1
 --- !u!65 &831248045
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31777,9 +31516,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1252225260}
-  selectTime: 1
 --- !u!65 &839389583
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31891,9 +31628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1469906886}
-  selectTime: 1
 --- !u!65 &842852437
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32005,9 +31740,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2146051220}
-  selectTime: 1
 --- !u!65 &846425370
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32119,9 +31852,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 908487841}
-  selectTime: 1
 --- !u!65 &850202727
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32233,9 +31964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 51868036}
-  selectTime: 1
 --- !u!65 &850448832
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32428,9 +32157,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1669374067}
-  selectTime: 1
 --- !u!65 &859081458
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32866,9 +32593,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1059827256}
-  selectTime: 1
 --- !u!65 &866351236
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33061,9 +32786,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 616847467}
-  selectTime: 1
 --- !u!65 &871582776
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33580,9 +33303,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1209858899}
-  selectTime: 1
 --- !u!65 &892835836
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33775,9 +33496,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1547007484}
-  selectTime: 1
 --- !u!65 &893595733
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33889,9 +33608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 803437887}
-  selectTime: 1
 --- !u!65 &895858448
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34003,9 +33720,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 512768128}
-  selectTime: 1
 --- !u!65 &897371298
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34117,9 +33832,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 661352156}
-  selectTime: 1
 --- !u!65 &901233235
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34474,9 +34187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 717997236}
-  selectTime: 1
 --- !u!65 &903999294
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34669,9 +34380,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 298978071}
-  selectTime: 1
 --- !u!65 &904800106
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34783,9 +34492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2092401462}
-  selectTime: 1
 --- !u!65 &906650073
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34897,9 +34604,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 746862055}
-  selectTime: 1
 --- !u!65 &906758140
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35011,9 +34716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 901895474}
-  selectTime: 1
 --- !u!65 &906957564
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35206,9 +34909,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 872454316}
-  selectTime: 1
 --- !u!65 &909967714
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35320,9 +35021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1032173676}
-  selectTime: 1
 --- !u!65 &913378775
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35434,9 +35133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 694452187}
-  selectTime: 1
 --- !u!65 &913502042
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35629,9 +35326,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 620298744}
-  selectTime: 1
 --- !u!65 &919609456
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35743,9 +35438,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 421614665}
-  selectTime: 1
 --- !u!65 &919995112
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35857,9 +35550,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2615420}
-  selectTime: 1
 --- !u!65 &927595118
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -35971,9 +35662,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 832575918}
-  selectTime: 1
 --- !u!65 &932131539
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36085,9 +35774,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1068363976}
-  selectTime: 1
 --- !u!65 &938444707
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36361,9 +36048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1100571687}
-  selectTime: 1
 --- !u!65 &942422035
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36556,9 +36241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1022132701}
-  selectTime: 1
 --- !u!65 &951116548
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36670,9 +36353,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 40840691}
-  selectTime: 1
 --- !u!65 &955973788
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36784,9 +36465,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 865561325}
-  selectTime: 1
 --- !u!65 &958967596
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36898,9 +36577,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 113020197}
-  selectTime: 1
 --- !u!65 &962745974
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37012,9 +36689,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 701913157}
-  selectTime: 1
 --- !u!65 &965335757
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37207,9 +36882,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1225831964}
-  selectTime: 1
 --- !u!65 &973662983
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37321,9 +36994,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 675327287}
-  selectTime: 1
 --- !u!65 &975658271
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37435,9 +37106,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1240021153}
-  selectTime: 1
 --- !u!65 &976289373
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37711,9 +37380,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 188037334}
-  selectTime: 1
 --- !u!65 &990202489
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37825,9 +37492,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1720273386}
-  selectTime: 1
 --- !u!65 &990445244
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37939,9 +37604,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1136614379}
-  selectTime: 1
 --- !u!65 &991538942
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38053,9 +37716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1507436271}
-  selectTime: 1
 --- !u!65 &995565616
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38248,9 +37909,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1648790670}
-  selectTime: 1
 --- !u!65 &1003429004
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38362,9 +38021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 592526716}
-  selectTime: 1
 --- !u!65 &1004385581
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38476,9 +38133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 206981852}
-  selectTime: 1
 --- !u!65 &1007478472
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38590,9 +38245,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1820307970}
-  selectTime: 1
 --- !u!65 &1012269340
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38947,9 +38600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2066959246}
-  selectTime: 1
 --- !u!65 &1030571969
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39223,9 +38874,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1959669591}
-  selectTime: 1
 --- !u!65 &1033936372
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -39823,9 +39472,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1826412066}
-  selectTime: 1
 --- !u!65 &1063603088
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40342,9 +39989,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 284990353}
-  selectTime: 1
 --- !u!65 &1078226784
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40537,9 +40182,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1755754825}
-  selectTime: 1
 --- !u!65 &1083395610
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40651,9 +40294,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1254886704}
-  selectTime: 1
 --- !u!65 &1084790145
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -40846,9 +40487,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1995992590}
-  selectTime: 1
 --- !u!65 &1088452145
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41203,9 +40842,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1547580316}
-  selectTime: 1
 --- !u!65 &1097441766
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41479,9 +41116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 801132824}
-  selectTime: 1
 --- !u!65 &1098382048
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41593,9 +41228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1827674804}
-  selectTime: 1
 --- !u!65 &1098782949
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41707,9 +41340,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 881660016}
-  selectTime: 1
 --- !u!65 &1100461570
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -41983,9 +41614,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 526177676}
-  selectTime: 1
 --- !u!65 &1103993794
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42097,9 +41726,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1622529821}
-  selectTime: 1
 --- !u!65 &1105633500
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42373,9 +42000,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2090496671}
-  selectTime: 1
 --- !u!65 &1116961799
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -42649,9 +42274,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 175073899}
-  selectTime: 1
 --- !u!65 &1132369707
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43006,9 +42629,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 646786262}
-  selectTime: 1
 --- !u!65 &1143331062
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43120,9 +42741,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1287107956}
-  selectTime: 1
 --- !u!65 &1146689785
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43720,9 +43339,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1718926116}
-  selectTime: 1
 --- !u!65 &1179012116
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -43996,9 +43613,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2140111755}
-  selectTime: 1
 --- !u!65 &1184620994
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -44191,9 +43806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 412960211}
-  selectTime: 1
 --- !u!65 &1191676677
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -44305,9 +43918,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 187552016}
-  selectTime: 1
 --- !u!65 &1192892799
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -44581,9 +44192,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 361525677}
-  selectTime: 1
 --- !u!65 &1201507096
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -44776,9 +44385,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1384579503}
-  selectTime: 1
 --- !u!65 &1202033927
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -44971,9 +44578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 303598608}
-  selectTime: 1
 --- !u!65 &1206261208
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -45328,9 +44933,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1060790452}
-  selectTime: 1
 --- !u!65 &1212050204
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -45442,9 +45045,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1833947697}
-  selectTime: 1
 --- !u!65 &1213178359
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -45637,9 +45238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1782696666}
-  selectTime: 1
 --- !u!65 &1214861693
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -45751,9 +45350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 605370627}
-  selectTime: 1
 --- !u!65 &1218711183
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -45865,9 +45462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 98517993}
-  selectTime: 1
 --- !u!65 &1220048415
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -45979,9 +45574,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1827718499}
-  selectTime: 1
 --- !u!65 &1220990655
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46093,9 +45686,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 771960231}
-  selectTime: 1
 --- !u!65 &1225208834
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46531,9 +46122,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 473719275}
-  selectTime: 1
 --- !u!65 &1231577043
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46645,9 +46234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 817879089}
-  selectTime: 1
 --- !u!65 &1235638269
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -46759,9 +46346,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 865871145}
-  selectTime: 1
 --- !u!65 &1236543929
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -47116,9 +46701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1227620960}
-  selectTime: 1
 --- !u!65 &1240520047
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -47230,9 +46813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1418659026}
-  selectTime: 1
 --- !u!65 &1241680341
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -47425,9 +47006,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 413922090}
-  selectTime: 1
 --- !u!65 &1253314570
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -47701,9 +47280,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1044293793}
-  selectTime: 1
 --- !u!65 &1258185660
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -47815,9 +47392,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1546549975}
-  selectTime: 1
 --- !u!65 &1259886512
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -47929,9 +47504,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1876083198}
-  selectTime: 1
 --- !u!65 &1261247299
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -48043,9 +47616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 400615166}
-  selectTime: 1
 --- !u!65 &1266242607
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -48238,9 +47809,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 392146561}
-  selectTime: 1
 --- !u!65 &1268718115
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -48352,9 +47921,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 971924701}
-  selectTime: 1
 --- !u!65 &1275749664
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -48466,9 +48033,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 188674755}
-  selectTime: 1
 --- !u!65 &1277328007
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -48580,9 +48145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1366736626}
-  selectTime: 1
 --- !u!65 &1286446519
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -48856,9 +48419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2056363556}
-  selectTime: 1
 --- !u!65 &1296101702
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -49051,9 +48612,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1705672222}
-  selectTime: 1
 --- !u!65 &1298184708
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -49422,9 +48981,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2015485167}
-  selectTime: 1
 --- !u!65 &1300409741
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -49698,9 +49255,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 433662784}
-  selectTime: 1
 --- !u!65 &1304726397
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -49974,9 +49529,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1446106975}
-  selectTime: 1
 --- !u!65 &1325166665
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50088,9 +49641,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 81002092}
-  selectTime: 1
 --- !u!65 &1328048917
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50202,9 +49753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1382079385}
-  selectTime: 1
 --- !u!65 &1333444575
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50316,9 +49865,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 84742126}
-  selectTime: 1
 --- !u!65 &1334870993
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50430,9 +49977,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1300738869}
-  selectTime: 1
 --- !u!65 &1336991329
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50625,9 +50170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 545499443}
-  selectTime: 1
 --- !u!65 &1349820128
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -50820,9 +50363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 11992541}
-  selectTime: 1
 --- !u!65 &1356295857
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51015,9 +50556,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1926983130}
-  selectTime: 1
 --- !u!65 &1366255779
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51210,9 +50749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 727294954}
-  selectTime: 1
 --- !u!65 &1368182017
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51405,9 +50942,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 853832095}
-  selectTime: 1
 --- !u!65 &1374326694
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51519,9 +51054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1199553268}
-  selectTime: 1
 --- !u!65 &1375375338
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51633,9 +51166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1783666976}
-  selectTime: 1
 --- !u!65 &1375817206
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51747,9 +51278,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 13423546}
-  selectTime: 1
 --- !u!65 &1377234671
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51861,9 +51390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1626865778}
-  selectTime: 1
 --- !u!65 &1381435885
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -52137,9 +51664,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 151866164}
-  selectTime: 1
 --- !u!65 &1382205160
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -52332,9 +51857,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1156282252}
-  selectTime: 1
 --- !u!65 &1384876595
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -52446,9 +51969,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1549608832}
-  selectTime: 1
 --- !u!65 &1386887280
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -52722,9 +52243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2070986137}
-  selectTime: 1
 --- !u!65 &1391989918
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -52836,9 +52355,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1371235024}
-  selectTime: 1
 --- !u!65 &1392312070
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53031,9 +52548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 624610504}
-  selectTime: 1
 --- !u!65 &1394917992
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53145,9 +52660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1924376335}
-  selectTime: 1
 --- !u!65 &1395087712
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53259,9 +52772,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 799590426}
-  selectTime: 1
 --- !u!65 &1397038217
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53373,9 +52884,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 255688091}
-  selectTime: 1
 --- !u!65 &1398372910
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53487,9 +52996,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1047124226}
-  selectTime: 1
 --- !u!65 &1398607322
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53682,9 +53189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 622698339}
-  selectTime: 1
 --- !u!65 &1401455735
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53796,9 +53301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 42377455}
-  selectTime: 1
 --- !u!65 &1406187482
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -53910,9 +53413,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 550541833}
-  selectTime: 1
 --- !u!65 &1406646910
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54024,9 +53525,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 866962953}
-  selectTime: 1
 --- !u!65 &1416868406
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54300,9 +53799,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1180133942}
-  selectTime: 1
 --- !u!65 &1419912416
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54414,9 +53911,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2094002892}
-  selectTime: 1
 --- !u!65 &1422999282
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -54933,9 +54428,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 342364749}
-  selectTime: 1
 --- !u!65 &1439684052
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55290,9 +54783,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1023429288}
-  selectTime: 1
 --- !u!65 &1454241172
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55485,9 +54976,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2102336167}
-  selectTime: 1
 --- !u!65 &1457699142
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55599,9 +55088,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1654596500}
-  selectTime: 1
 --- !u!65 &1459652525
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55713,9 +55200,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1676097435}
-  selectTime: 1
 --- !u!65 &1460616297
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -55827,9 +55312,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 541358103}
-  selectTime: 1
 --- !u!65 &1461522909
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56022,9 +55505,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 672015727}
-  selectTime: 1
 --- !u!65 &1470275833
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56136,9 +55617,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 252344834}
-  selectTime: 1
 --- !u!65 &1476190842
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56250,9 +55729,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1266939761}
-  selectTime: 1
 --- !u!65 &1483182053
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56364,9 +55841,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 312452855}
-  selectTime: 1
 --- !u!65 &1486423886
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56478,9 +55953,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 174534657}
-  selectTime: 1
 --- !u!65 &1489425708
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56592,9 +56065,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1188691960}
-  selectTime: 1
 --- !u!65 &1496327492
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56706,9 +56177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 449451615}
-  selectTime: 1
 --- !u!65 &1497512876
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -56820,9 +56289,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1322064912}
-  selectTime: 1
 --- !u!65 &1498774016
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57015,9 +56482,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2008833244}
-  selectTime: 1
 --- !u!65 &1502848180
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57129,9 +56594,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 475627286}
-  selectTime: 1
 --- !u!65 &1506330849
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57486,9 +56949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 290633489}
-  selectTime: 1
 --- !u!65 &1517111338
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57681,9 +57142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 985150799}
-  selectTime: 1
 --- !u!65 &1523401825
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57876,9 +57335,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1387348642}
-  selectTime: 1
 --- !u!65 &1533632237
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -58233,9 +57690,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 939439849}
-  selectTime: 1
 --- !u!65 &1540108489
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -58428,9 +57883,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 426894931}
-  selectTime: 1
 --- !u!65 &1545583671
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -58785,9 +58238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1098278956}
-  selectTime: 1
 --- !u!65 &1548753990
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -58980,9 +58431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 825442697}
-  selectTime: 1
 --- !u!65 &1556727289
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59094,9 +58543,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1067311954}
-  selectTime: 1
 --- !u!65 &1563409813
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59208,9 +58655,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1968308150}
-  selectTime: 1
 --- !u!65 &1563565282
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59403,9 +58848,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 558489232}
-  selectTime: 1
 --- !u!65 &1574009289
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59517,9 +58960,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 421599259}
-  selectTime: 1
 --- !u!65 &1574706879
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59793,9 +59234,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1073182714}
-  selectTime: 1
 --- !u!65 &1581700790
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -59988,9 +59427,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 656615772}
-  selectTime: 1
 --- !u!65 &1587188552
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60102,9 +59539,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1148819854}
-  selectTime: 1
 --- !u!65 &1589262604
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60378,9 +59813,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1910450469}
-  selectTime: 1
 --- !u!65 &1595001060
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60492,9 +59925,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1593554723}
-  selectTime: 1
 --- !u!65 &1595100277
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60606,9 +60037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 534858675}
-  selectTime: 1
 --- !u!65 &1598910188
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60720,9 +60149,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1501657132}
-  selectTime: 1
 --- !u!65 &1599439910
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60915,9 +60342,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1427686628}
-  selectTime: 1
 --- !u!65 &1611111757
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61110,9 +60535,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 193768619}
-  selectTime: 1
 --- !u!65 &1618138065
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61305,9 +60728,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 230963587}
-  selectTime: 1
 --- !u!65 &1625463985
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61500,9 +60921,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1697378102}
-  selectTime: 1
 --- !u!65 &1627501761
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61614,9 +61033,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 658951954}
-  selectTime: 1
 --- !u!65 &1629218244
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61728,9 +61145,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 721153766}
-  selectTime: 1
 --- !u!65 &1638854979
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -62085,9 +61500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1306742879}
-  selectTime: 1
 --- !u!65 &1654299825
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -62280,9 +61693,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 48101497}
-  selectTime: 1
 --- !u!65 &1654624526
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -62475,9 +61886,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 571582828}
-  selectTime: 1
 --- !u!65 &1661135939
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -62913,9 +62322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1364289389}
-  selectTime: 1
 --- !u!65 &1674780522
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -63480,7 +62887,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 51.197, y: 0, z: 0}
 --- !u!114 &1687258586
 MonoBehaviour:
@@ -63581,9 +62988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1210356183}
-  selectTime: 1
 --- !u!65 &1692125273
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -64019,9 +63424,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 763359595}
-  selectTime: 1
 --- !u!65 &1712291316
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -64133,9 +63536,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1298648458}
-  selectTime: 1
 --- !u!65 &1712881958
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -64571,9 +63972,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1445125764}
-  selectTime: 1
 --- !u!65 &1726164049
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -64847,9 +64246,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 470663095}
-  selectTime: 1
 --- !u!65 &1731996516
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65042,9 +64439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 999494018}
-  selectTime: 1
 --- !u!65 &1743812957
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65156,9 +64551,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2015665877}
-  selectTime: 1
 --- !u!65 &1746281665
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65351,9 +64744,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1018652699}
-  selectTime: 1
 --- !u!65 &1752714209
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65546,9 +64937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 368880669}
-  selectTime: 1
 --- !u!65 &1753549726
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65822,9 +65211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 626075232}
-  selectTime: 1
 --- !u!65 &1757804596
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65936,9 +65323,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 661423383}
-  selectTime: 1
 --- !u!65 &1759724832
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66131,9 +65516,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1752012437}
-  selectTime: 1
 --- !u!65 &1769692926
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66245,9 +65628,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 902161311}
-  selectTime: 1
 --- !u!65 &1771478613
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66359,9 +65740,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1673548940}
-  selectTime: 1
 --- !u!65 &1777432183
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66473,9 +65852,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 225076864}
-  selectTime: 1
 --- !u!65 &1778464812
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66587,9 +65964,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 915750037}
-  selectTime: 1
 --- !u!65 &1778917894
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66863,9 +66238,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1946795069}
-  selectTime: 1
 --- !u!65 &1784009695
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -66977,9 +66350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1974890740}
-  selectTime: 1
 --- !u!65 &1786563146
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -67091,9 +66462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 617774421}
-  selectTime: 1
 --- !u!65 &1789814171
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -67367,9 +66736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 245903605}
-  selectTime: 1
 --- !u!65 &1797859570
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -67481,9 +66848,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 630497208}
-  selectTime: 1
 --- !u!65 &1798791347
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -67676,9 +67041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 311785919}
-  selectTime: 1
 --- !u!65 &1802977391
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -67952,9 +67315,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1072301807}
-  selectTime: 1
 --- !u!65 &1817456927
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -68147,9 +67508,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 573965680}
-  selectTime: 1
 --- !u!65 &1821239356
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -68261,9 +67620,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1659562146}
-  selectTime: 1
 --- !u!65 &1822760007
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -69023,9 +68380,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 554693086}
-  selectTime: 1
 --- !u!65 &1856780280
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -69218,9 +68573,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1229981455}
-  selectTime: 1
 --- !u!65 &1857977960
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -69332,9 +68685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 545190156}
-  selectTime: 1
 --- !u!65 &1858730173
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -69608,9 +68959,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2094904267}
-  selectTime: 1
 --- !u!65 &1871065045
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -69722,9 +69071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1301304690}
-  selectTime: 1
 --- !u!65 &1871637153
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -69917,9 +69264,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 340622252}
-  selectTime: 1
 --- !u!65 &1876389837
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70031,9 +69376,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1957487984}
-  selectTime: 1
 --- !u!65 &1877520470
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70145,9 +69488,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 543190587}
-  selectTime: 1
 --- !u!65 &1879016054
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70259,9 +69600,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1685913614}
-  selectTime: 1
 --- !u!65 &1890618481
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70373,9 +69712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 872236411}
-  selectTime: 1
 --- !u!65 &1892608499
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70487,9 +69824,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 292671495}
-  selectTime: 1
 --- !u!65 &1897807934
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70844,9 +70179,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 950059245}
-  selectTime: 1
 --- !u!65 &1918088011
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -70958,9 +70291,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 246826976}
-  selectTime: 1
 --- !u!65 &1922331051
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -71315,9 +70646,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1295779872}
-  selectTime: 1
 --- !u!65 &1932865616
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -71429,9 +70758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 501042740}
-  selectTime: 1
 --- !u!65 &1933529973
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -71624,9 +70951,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1204916399}
-  selectTime: 1
 --- !u!65 &1946512720
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -72062,9 +71387,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1040356867}
-  selectTime: 1
 --- !u!65 &1966108928
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -72176,9 +71499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1097960389}
-  selectTime: 1
 --- !u!65 &1967113227
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -72533,9 +71854,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1401262872}
-  selectTime: 1
 --- !u!65 &1971352174
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -72890,9 +72209,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1544870935}
-  selectTime: 1
 --- !u!65 &1976170503
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -73004,9 +72321,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 653447829}
-  selectTime: 1
 --- !u!65 &1979781551
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -73199,9 +72514,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1214796252}
-  selectTime: 1
 --- !u!65 &1985409031
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -73394,9 +72707,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1752740730}
-  selectTime: 1
 --- !u!65 &1991060836
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -73670,9 +72981,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 534033935}
-  selectTime: 1
 --- !u!65 &2000350962
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -73784,9 +73093,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1434473627}
-  selectTime: 1
 --- !u!65 &2000609573
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -74222,9 +73529,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1836739442}
-  selectTime: 1
 --- !u!65 &2018271382
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -74417,9 +73722,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1975018804}
-  selectTime: 1
 --- !u!65 &2024458438
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -74531,9 +73834,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2092815499}
-  selectTime: 1
 --- !u!65 &2027772424
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -74645,9 +73946,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1839453993}
-  selectTime: 1
 --- !u!65 &2031525713
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -74840,9 +74139,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 748622039}
-  selectTime: 1
 --- !u!65 &2043336982
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -75116,9 +74413,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1847295913}
-  selectTime: 1
 --- !u!65 &2063080584
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -75626,7 +74921,7 @@ Transform:
   - {fileID: 263021869}
   - {fileID: 2063080582}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2064332236
 GameObject:
@@ -75677,9 +74972,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1806727296}
-  selectTime: 1
 --- !u!65 &2064332239
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -75872,9 +75165,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1128753273}
-  selectTime: 1
 --- !u!65 &2066501237
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -76148,9 +75439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 633790401}
-  selectTime: 1
 --- !u!65 &2069353625
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -76262,9 +75551,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 335339201}
-  selectTime: 1
 --- !u!65 &2070922100
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -76457,9 +75744,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 758006749}
-  selectTime: 1
 --- !u!65 &2073404769
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -76571,9 +75856,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1296638771}
-  selectTime: 1
 --- !u!65 &2076374092
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -77171,9 +76454,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1137430963}
-  selectTime: 1
 --- !u!65 &2096036919
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -77528,9 +76809,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1870923879}
-  selectTime: 1
 --- !u!65 &2110627643
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -77723,9 +77002,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 721904429}
-  selectTime: 1
 --- !u!65 &2116721078
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -77837,9 +77114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2005809877}
-  selectTime: 1
 --- !u!65 &2120817462
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -77951,9 +77226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 779103391}
-  selectTime: 1
 --- !u!65 &2122084926
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -78065,9 +77338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 354763290}
-  selectTime: 1
 --- !u!65 &2125832774
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -78179,9 +77450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1739142597}
-  selectTime: 1
 --- !u!65 &2132090996
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -78293,9 +77562,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 1
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1457243976}
-  selectTime: 1
 --- !u!65 &2132174218
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -78450,7 +77717,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 45, y: 130, z: 90}
 --- !u!114 &2138677394
 MonoBehaviour:
@@ -78514,9 +77781,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1381685182}
-  selectTime: 1
 --- !u!65 &2139668868
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -78790,9 +78055,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 397114370}
-  selectTime: 1
 --- !u!65 &2146342841
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -78904,9 +78167,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 2050397140}
-  selectTime: 1
 --- !u!65 &2146624386
 BoxCollider:
   m_ObjectHideFlags: 0

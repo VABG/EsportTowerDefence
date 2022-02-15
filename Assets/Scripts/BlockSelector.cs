@@ -39,7 +39,6 @@ public class BlockSelector : MonoBehaviour
             RaycastHit hit;
             Ray ray = cam.ScreenPointToRay(Input.mousePosition);
 
-            // PROBLEM FOUND, LAYER MASK WAS NOT BEING USED SOMETIMES FOR WHATEVER REASON!!!
             if (Physics.Raycast(ray, out hit, 100.0f, layerMask))
             {
                 Transform objectHit = hit.transform;
