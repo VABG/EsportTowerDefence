@@ -1,34 +1,26 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class Enemy : MonoBehaviour
 {
     [SerializeField] float health;
+    NavMeshAgent agent;
+    static NavMeshPath path;
 
-    float moveTime = 5;
 
-    float time = 0;
-    bool right = true;
-
-    Vector3 startposition;
     // Start is called before the first frame update
     void Start()
     {
-        startposition = transform.position;
+       
+        //agent.SetDestination(endPoint.position);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (right) time += Time.deltaTime;
-        else time -= Time.deltaTime;
 
-        if (time >= moveTime) right = false;
-        if (time <= 0) right = true;
-        float lerp = time / moveTime;
-
-        transform.position = Vector3.Lerp(startposition, startposition + Vector3.right * 30, lerp);
     }
 
     public void Damage(float damage)
@@ -39,5 +31,17 @@ public class Enemy : MonoBehaviour
             health = 0;
             Destroy(gameObject);
         }
+    }
+
+    public void SetEndPoint(Vector3 endPoint)
+    {
+        agent = GetComponent<NavMeshAgent>();        
+        
+        if (path == null)
+        {
+            path = new NavMeshPath();
+            agent.CalculatePath(endPoint, path);
+        }
+        agent.path = path;
     }
 }

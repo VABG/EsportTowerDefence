@@ -10,7 +10,7 @@ public class Tower : MonoBehaviour
     [SerializeField] GameObject shot;
     [SerializeField] Transform shootFromHere;
 
-    float shotDelay = 1;
+    float shotDelay = .2f;
     float shotTimer = 0;
 
     // Start is called before the first frame update

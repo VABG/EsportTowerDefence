@@ -24,7 +24,7 @@ public class Shot : MonoBehaviour
 
         if (e != null)
         {
-            e.Damage(20);
+            e.Damage(4);
         }
 
         Destroy(gameObject);
