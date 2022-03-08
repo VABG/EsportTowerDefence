@@ -35,9 +35,10 @@ public class EnemySpawner : MonoBehaviour
 
                 spawnedEnemies++;
                 spawnDelayTimer = 0;
-                if (spawnedEnemies > enemiesPerWave)
+                if (spawnedEnemies >= enemiesPerWave)
                 {
-                    spawnTimer = 0;                    
+                    spawnTimer = 0;
+                    spawnedEnemies = 0;
                 }
             }
         }

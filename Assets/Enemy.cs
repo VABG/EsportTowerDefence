@@ -8,12 +8,14 @@ public class Enemy : MonoBehaviour
     [SerializeField] float health;
     NavMeshAgent agent;
     static NavMeshPath path;
+    float defaultSpeed;
 
+    List<IEffect> effects = new List<IEffect>();    
 
     // Start is called before the first frame update
     void Start()
     {
-       
+        defaultSpeed = agent.speed;  
         //agent.SetDestination(endPoint.position);
     }
 
@@ -43,5 +45,34 @@ public class Enemy : MonoBehaviour
             agent.CalculatePath(endPoint, path);
         }
         agent.path = path;
+    }
+
+    public void SlowEffectStart(float multiplier)
+    {
+        agent.speed = defaultSpeed * multiplier;
+    }
+
+    public void SlowEffectStop()
+    {
+        agent.speed = defaultSpeed;
+    }
+
+    public void RemoveEffect(IEffect effect)
+    {
+        effects.Remove(effect);
+    }
+
+    public bool AddEffect(IEffect effect)
+    {
+        for (int i = 0; i < effects.Count; i++)
+        {
+            string t = effects[i].GetType();
+            if (effect.GetType() == t) return false;
+        }
+
+        //if (effects.Contains(effect)) return;
+
+        effects.Add(effect);
+        return true;
     }
 }

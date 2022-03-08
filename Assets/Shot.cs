@@ -5,6 +5,8 @@ using UnityEngine;
 public class Shot : MonoBehaviour
 {
     Rigidbody rb;
+    [SerializeField] GameObject effect;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,8 +27,15 @@ public class Shot : MonoBehaviour
         if (e != null)
         {
             e.Damage(4);
-        }
+            GameObject eSpawn = Instantiate(effect, e.transform.position, e.transform.rotation,  e.transform);
+            IEffect ifx = eSpawn.GetComponent<IEffect>();
+            ifx.StartEffect(e);
+            if (!e.AddEffect(ifx))
+            {
+                Destroy(eSpawn);
+            }
 
+        }
         Destroy(gameObject);
     }
 }

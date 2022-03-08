@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 203952165}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ShootFromHere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 1566328316}
   - component: {fileID: 1566328315}
   - component: {fileID: 1566328314}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 3328699019818919492}
   - component: {fileID: 8619154242285869075}
   - component: {fileID: 6485311448907412516}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RotationThing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 3395058378639326702}
   - component: {fileID: 6600923287533320336}
   - component: {fileID: 9008850276189692443}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Tower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   - component: {fileID: 8445763514924290481}
   - component: {fileID: 3943565576607012214}
   - component: {fileID: 2376950246543711184}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Barrel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 4625562169768323507}
   - component: {fileID: 4918850324451923155}
   - component: {fileID: 6799521839075635295}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: TowerBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -488,7 +488,7 @@ GameObject:
   - component: {fileID: 1996881318416116567}
   - component: {fileID: 1580198673499148238}
   - component: {fileID: 7578782685118624787}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: UpDownThing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
