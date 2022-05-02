@@ -192,6 +192,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isPath: 0
   size: 5
-  tower: {fileID: 0}
   selectVisuals: {fileID: 1866505532}
-  selectTime: 1

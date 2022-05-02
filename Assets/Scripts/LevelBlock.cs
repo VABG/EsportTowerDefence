@@ -23,6 +23,12 @@ public class LevelBlock : MonoBehaviour
 
     }
 
+    public void ToggleVisible(bool visible)
+    {
+
+        GetComponent<MeshRenderer>().enabled = visible;
+    }
+
     public bool HasTower()
     {
         if (tower != null) return true;

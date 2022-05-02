@@ -9,20 +9,46 @@ public class Enemy : MonoBehaviour
     NavMeshAgent agent;
     static NavMeshPath path;
     float defaultSpeed;
-
-    List<IEffect> effects = new List<IEffect>();    
+    [SerializeField] Animator anim;
+    [SerializeField] SkinnedMeshRenderer skin;
+    [SerializeField] MeshRenderer[] mesh;
+    Material[] m;
+    int fadeID;
+    float fadeTimer = 0;
+    List<IEffect> effects = new List<IEffect>();
+    int speedID;
+    bool dying = false;
 
     // Start is called before the first frame update
     void Start()
     {
-        defaultSpeed = agent.speed;  
+        speedID = Animator.StringToHash("Speed");
+        agent = GetComponent<NavMeshAgent>();
+        defaultSpeed = agent.speed;
+        m = new Material[mesh.Length+1];
+        m[0] = skin.materials[0];
+        for (int i = 0; i < mesh.Length; i++)
+        {
+            m[i+1] = mesh[i].materials[0];
+        }
+
+        fadeID = Shader.PropertyToID("Vector1_924b215b91f745428a2ccfd9c7708541");
         //agent.SetDestination(endPoint.position);
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        float speed = agent.velocity.magnitude;
+        anim.SetFloat(speedID, speed);
+        if (dying)
+        {
+            fadeTimer += Time.deltaTime;            
+            for (int i = 0; i < m.Length; i++)
+            {
+                m[i].SetFloat(fadeID, fadeTimer);
+            }            
+        }
     }
 
     public void Damage(float damage)
@@ -31,8 +57,18 @@ public class Enemy : MonoBehaviour
         if(health <= 0)
         {
             health = 0;
-            Destroy(gameObject);
+            Die();
         }
+    }
+
+    void Die()
+    {
+        //agent.isStopped = true;
+        dying = true;
+        anim.SetTrigger("OnDeath");
+        Destroy(gameObject, 1.0f);
+        GetComponent<CapsuleCollider>().enabled = false;
+        agent.enabled = false;
     }
 
     public void SetEndPoint(Vector3 endPoint)
