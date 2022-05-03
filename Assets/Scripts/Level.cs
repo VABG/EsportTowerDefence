@@ -17,9 +17,12 @@ public class Level : MonoBehaviour
     [SerializeField] LevelBlock levelBlock;
     LevelBlock[,] level;
     float blockSize = 5.0f;
+    [SerializeField] Transform treeParent;
+    [SerializeField] Transform visualsParent;
 
     [SerializeField] BlockShapeAndGameObject[] blocks;
-    List<GameObject> visuals;
+
+    [SerializeField] GameObject treeModel;
 
     // Start is called before the first frame update
     void Start()
@@ -46,11 +49,11 @@ public class Level : MonoBehaviour
             }
         }
 
-        return GetBlocktypeFromBlockList(blockShape, xPos, yPos);
+        return GetBlocktypeFromBlockList(blockShape);
     }
 
 
-    private GameObject GetBlocktypeFromBlockList(bool[] blockType, int x, int y)
+    private GameObject GetBlocktypeFromBlockList(bool[] blockType)
     {
         GameObject g = null;
         bool success = true;
@@ -165,7 +168,7 @@ public class Level : MonoBehaviour
             }
             else
             {
-                Debug.LogError("No level or to few blocks! Total of " +blocks.Length+ " blocks out of " + (width * height).ToString());
+                Debug.LogError("No level or too few blocks! Total of " + blocks.Length+ " blocks out of " + (width * height).ToString());
                 return;
             }
         }
@@ -187,15 +190,11 @@ public class Level : MonoBehaviour
         }
 
 
-        // NEW!!
-        if (visuals != null)
+        int children = visualsParent.childCount;
+        for (int i = 0; i < children; i++)
         {
-            for (int i = visuals.Count -1; i >= 0; i--)
-            {
-                DestroyImmediate(visuals[i]);
-            }
+            DestroyImmediate(visualsParent.GetChild(0).gameObject);
         }
-        visuals = new List<GameObject>();
 
         // Visuals
         Vector2 center = GetCenter();
@@ -203,14 +202,69 @@ public class Level : MonoBehaviour
         {
             for (int y = 0; y < height; y++)
             {
-                GameObject g = Instantiate(GetBlockType(x, y), gameObject.transform);
+                GameObject g = Instantiate(GetBlockType(x, y), visualsParent);
                 g.transform.position = new Vector3(center.x + x * blockSize, 0, center.y - y * blockSize);
-                visuals.Add(g);
+            }
+        }
+        PlantTrees();
+        //PlantOneTree(0, 0);
+        ToggleBlockVisibility(false);
+    }
+
+    void PlantTrees()
+    {
+        int children = treeParent.childCount;
+        for (int i = 0; i < children; i++)
+        {
+            DestroyImmediate(treeParent.GetChild(0).gameObject);
+        }
+
+        for (int x = 0; x < width; x++)
+        {
+            for (int y = 0; y < height; y++)
+            {
+                PlantOneTree(x, y);
+            }
+        }
+    }
+
+    void PlantOneTree(int x, int y)
+    {
+        float amount = SampleDensity(x, y);
+        float amountMulted = amount * 3;
+
+        for (int i = 0; i < amountMulted; i++)
+        {
+            Vector2 pos = new Vector2(Random.value-.5f, Random.value-.5f) * blockSize;
+            GameObject g = Instantiate(treeModel, new Vector3(pos.x, 2.5f, pos.y) + level[x, y].transform.position,
+                Quaternion.identity, treeParent);
+            g.transform.localScale = Vector3.one * (amount * 2.0f + .25f);
+            g.transform.Rotate(new Vector3(0, Random.value * 360, 0));
+        }
+    }
+
+    float SampleDensity(int xPos, int yPos, int sampleSize = 12)
+    {
+        float density = 0;
+        if (level[xPos, yPos].isPath) return 0;
+        for (int x = 0; x < sampleSize; x++)
+        {
+            for (int y = 0; y < sampleSize; y++)
+            {
+                Vector2Int p = new Vector2Int(x - (sampleSize / 2) + xPos, y - (sampleSize / 2) + yPos);
+                if (InLevel(p.x, p.y))
+                {
+                    if (level[p.x, p.y].isPath) density++;
+                }
             }
         }
 
-        ToggleBlockVisibility(false);
+        density /= (float)(sampleSize * sampleSize);
+        return (1 - (density*4));
     }
+
+
+
 
 
     // Update is called once per frame
