@@ -8,6 +8,8 @@ public class LevelBlock : MonoBehaviour
     public int size = 5;
 
     Tower tower;
+    [HideInInspector]
+    [SerializeField]List<GameObject> trees;
 
     [SerializeField] Transform selectVisuals;
 
@@ -15,6 +17,23 @@ public class LevelBlock : MonoBehaviour
     void Start()
     {
         
+    }
+
+    public void RemoveTrees()
+    {
+        if (trees == null) return;
+        for (int i = trees.Count-1; i >= 0 ; i--)
+        {
+            Destroy(trees[i]);
+        }
+        trees.Clear();
+        trees = null;
+    }
+
+    public void AddTree(GameObject tree)
+    {
+        if (trees == null) trees = new List<GameObject>();
+        trees.Add(tree);
     }
 
     // Update is called once per frame
@@ -50,6 +69,7 @@ public class LevelBlock : MonoBehaviour
         tower = Instantiate(t);
         t = tower;
         tower.transform.position = transform.position + Vector3.up * transform.localScale.y / 2.0f;
+        RemoveTrees();
     }
 
 }

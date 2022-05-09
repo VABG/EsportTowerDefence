@@ -22,7 +22,7 @@ public class Level : MonoBehaviour
 
     [SerializeField] BlockShapeAndGameObject[] blocks;
 
-    [SerializeField] GameObject treeModel;
+    [SerializeField] GameObject treeModel;    
 
     // Start is called before the first frame update
     void Start()
@@ -207,7 +207,6 @@ public class Level : MonoBehaviour
             }
         }
         PlantTrees();
-        //PlantOneTree(0, 0);
         ToggleBlockVisibility(false);
     }
 
@@ -240,6 +239,7 @@ public class Level : MonoBehaviour
                 Quaternion.identity, treeParent);
             g.transform.localScale = Vector3.one * (amount * 2.0f + .25f);
             g.transform.Rotate(new Vector3(0, Random.value * 360, 0));
+            level[x, y].AddTree(g);
         }
     }
 
