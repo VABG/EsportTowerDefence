@@ -19,9 +19,34 @@ public class Enemy : MonoBehaviour
     int speedID;
     bool dying = false;
 
+    [SerializeField] Transform headBone;
+    [SerializeField] Transform jaw;
+    [SerializeField] Transform[] tail;
+    [SerializeField] Transform upperBody;
+
+    void RandomizeBoneSizes()
+    {
+        float headScale = Random.value + .5f;
+        float tailLength = Random.value + .5f;
+        float tailThickness = Random.value + .5f;
+        float jawLength = Random.value + .5f;
+        float upperbodyScale = Random.value + .5f;
+
+        upperBody.localScale = new Vector3(upperbodyScale, upperbodyScale, upperbodyScale);
+        headBone.localScale = new Vector3(headScale, headScale, headScale);
+        jaw.localScale = new Vector3(1, jawLength, 1);
+
+        for (int i = 0; i < tail.Length; i++)
+        {
+            tail[i].localScale = new Vector3(tailThickness, tailLength, tailThickness);
+        }
+
+    }
+
     // Start is called before the first frame update
     void Start()
     {
+        RandomizeBoneSizes();
         speedID = Animator.StringToHash("Speed");
         agent = GetComponent<NavMeshAgent>();
         defaultSpeed = agent.speed;
