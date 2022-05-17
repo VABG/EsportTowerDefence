@@ -76,6 +76,8 @@ MonoBehaviour:
   mesh:
   - {fileID: 2943137778612022886}
   - {fileID: 6387053833587891227}
+  deathPFX: {fileID: 9030951262464222315, guid: a49e50dbca021274d888618ddb2d1b65, type: 3}
+  deathPFXSpawnPosition: {fileID: 4490094286500342364}
   headBone: {fileID: 683356876443767410}
   jaw: {fileID: 405659638094872037}
   tail:

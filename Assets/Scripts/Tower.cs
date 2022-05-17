@@ -9,6 +9,7 @@ public class Tower : MonoBehaviour
 
     [SerializeField] GameObject shot;
     [SerializeField] Transform shootFromHere;
+    [SerializeField] ParticleSystem pfx;
 
     float shotDelay = .2f;
     float shotTimer = 0;
@@ -45,6 +46,7 @@ public class Tower : MonoBehaviour
     {
         shootFromHere.LookAt(targets[0].transform);
         Instantiate(shot, shootFromHere.position, shootFromHere.rotation);
+        pfx.Play();
     }
 
     private void OnTriggerEnter(Collider other)

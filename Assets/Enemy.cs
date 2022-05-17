@@ -12,6 +12,8 @@ public class Enemy : MonoBehaviour
     [SerializeField] Animator anim;
     [SerializeField] SkinnedMeshRenderer skin;
     [SerializeField] MeshRenderer[] mesh;
+    [SerializeField] GameObject deathPFX;
+    [SerializeField] Transform deathPFXSpawnPosition;
     Material[] m;
     int fadeID;
     float fadeTimer = 0;
@@ -94,6 +96,7 @@ public class Enemy : MonoBehaviour
         Destroy(gameObject, 1.0f);
         GetComponent<CapsuleCollider>().enabled = false;
         agent.enabled = false;
+        Instantiate(deathPFX, deathPFXSpawnPosition.position, Quaternion.identity);
     }
 
     public void SetEndPoint(Vector3 endPoint)

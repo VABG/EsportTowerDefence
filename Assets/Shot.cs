@@ -6,6 +6,7 @@ public class Shot : MonoBehaviour
 {
     Rigidbody rb;
     [SerializeField] GameObject effect;
+    [SerializeField] GameObject deathFX;
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +37,7 @@ public class Shot : MonoBehaviour
             }
 
         }
+        Instantiate(deathFX, transform.position, transform.rotation);
         Destroy(gameObject);
     }
 }

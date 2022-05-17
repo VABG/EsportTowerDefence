@@ -110,6 +110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effect: {fileID: 1443826197399883063, guid: dabdca0c1572faf4bb5a3e2c142e1d6a, type: 3}
+  deathFX: {fileID: 5220666808621103408, guid: e7c3d2b7bb65231429a7edfdb182ba24, type: 3}
 --- !u!54 &7869258584012136968
 Rigidbody:
   m_ObjectHideFlags: 0
